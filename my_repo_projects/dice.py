@@ -1,2 +1,3 @@
-def dice():
-    pass
+class Dice():
+    def __init__(self):
+        pass
