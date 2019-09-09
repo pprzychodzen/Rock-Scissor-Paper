@@ -1,3 +1,6 @@
-class Dice():
+class Dice:
     def __init__(self):
+        pass
+
+    def __repr__(self):
         pass
